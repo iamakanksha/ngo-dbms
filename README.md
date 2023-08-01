@@ -5,7 +5,7 @@
   1. A Windows/Linux/OS X computer system which supports XAMPP
      software.
   2. XAMPP software
-  3. A web browser (Chrome/Mozilla FireFox/Safari)
+  3. A web browser (Chrome / Mozilla FireFox / Safari)
 
 ### Installation of XAMPP
   1. Download XAMPP from Apache Friends. Choose the download with the version of PHP that you need.
