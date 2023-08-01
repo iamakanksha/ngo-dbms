@@ -1,5 +1,5 @@
 # "Light of Hope" - NGO Database Management System
-5th semester mini project
+5th semester mini project to fulfill VTU criteria for the subject Database Management System.
 
 ### Prerequisites
   1. A Windows/Linux/OS X computer system which supports XAMPP
