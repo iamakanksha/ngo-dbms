@@ -1,11 +1,11 @@
 # "Light of Hope" - NGO Database Management System
-5th semester mini project
+5th semester mini project to fulfill VTU criteria for the subject Database Management System.
 
 ### Prerequisites
   1. A Windows/Linux/OS X computer system which supports XAMPP
      software.
   2. XAMPP software
-  3. A web browser (Chrome/Mozilla FireFox/Safari)
+  3. A web browser (Chrome / Mozilla FireFox / Safari)
 
 ### Installation of XAMPP
   1. Download XAMPP from Apache Friends. Choose the download with the version of PHP that you need.
@@ -27,7 +27,7 @@
   3. To start the site type http://localhost:8080/NGODBMS/Home.html into your browser.
 
 ### Understanding usage
-The Home page of the site will be opened.Using the tabs given given at the top of the page,the about us,the events page,the work with us page,contact us page,the login page can be accessed.
+The Home page of the site will be the initial landing page.Using the tabs given given at the top of the page,the about us,the events page,the work with us page,contact us page,the login page can be accessed.
 If you are an employee, give your password and username combination on the login page for an employee or admin depending on your privileges and press the button "Log In".Once you log in, you will be directed to your Login session page and your personalised dashboard.
 
 If you are not a employee, you do not have privileges to function the NGO database management system.
