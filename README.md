@@ -27,9 +27,9 @@
   3. To start the site type http://localhost:8080/NGODBMS/Home.html into your browser.
 
 ### Understanding usage
-The Home page of the site will be the initial landing page.Using the tabs given given at the top of the page,the about us,the events page,the work with us page,contact us page,the login page can be accessed.
-If you are an employee, give your password and username combination on the login page for an employee or admin depending on your privileges and press the button "Log In".Once you log in, you will be directed to your Login session page and your personalised dashboard.
+The Home page of the site will be the initial landing page.Using the tabs given given at the top of the page: "about us","events", "work with us","contact us", "login" page can be accessed.
+Employees can enter credentials on the login page for an regular or admin access depending on privileges and press the button "Log In" upon which user will be directed to Login session page and personalised dashboard.
 
-If you are not a employee, you do not have privileges to function the NGO database management system.
-The employee dashboard allows you to view your events ,your donations ,your beneficiaries,your volunteers.You are allowed to edit your volunteers and donations collected by you.
+Non-employees do not have privileges to function the NGO database management system.
+The employee dashboard allows to view events, donations, beneficiaries, volunteers but are allowed to edit volunteers and donations collected by the member.
 The admin dashboard allows for all functions that lead to the manipulation of the entire NGO database.
